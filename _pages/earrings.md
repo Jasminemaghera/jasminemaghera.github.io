@@ -36,7 +36,7 @@ All prices are in **CAD**.
     
     {% include item.html title="Lovely Baby Blue Roses with Gold Hoops" description="Baby blue polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/blue-hoop.jpeg" price="14" %}
 
-    {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/rose-hoops.jpeg" price="14" %}
+    {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/rose-hoops.jpg" price="14" %}
     
 </div>
 
