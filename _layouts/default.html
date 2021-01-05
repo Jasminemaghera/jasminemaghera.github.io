@@ -51,8 +51,9 @@ ga('send', 'pageview');
     <ul>
         <h3>Navigation</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About <span class="badge badge-primary">Memoirs Jekyll Theme</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/">Get Memoirs</a></li>      
+        <li><a href="{{ site.baseurl }}/canvas">Canvases</a></li>
+        <li><a href="{{ site.baseurl }}/earring">Earrings</a></li>      
+        <li><a href="{{ site.baseurl }}/pod">Pod Covers <span class="badge badge-primary">Coming Soon</span></a></li>
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
     </ul>   
 </nav>
@@ -138,6 +139,9 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lightbox.css">
 
 </body>
 </html>

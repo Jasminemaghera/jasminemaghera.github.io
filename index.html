@@ -2,20 +2,23 @@
 layout: default
 title: Home
 ---
-
-<!-- Posts Index
-================================================== -->
-<div class="blog-grid-container">
-    {% for post in paginator.posts %}
-        {% include postbox.html %}
-    {% endfor %}
+<div style="margin-bottom: 40px;">
+    <a href="canvas" class="btn btn-dark" style="margin-top: 5px;"> Canvases &rarr;</a>
+    <a href="earring" class="btn btn-dark" style="margin-top: 5px;"> Earrings &rarr;</a>
+    <a href="pod" class="btn btn-dark" style="margin-top: 5px;"> Pod Covers &rarr;</a>
 </div>
 
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+
+
+<div style="display: grid; grid-gap: 10px;   grid-template-columns: auto auto auto; margin-bottom: 40px;">
+    <div><img src="{{ site.baseurl }}/assets/images/home/pod2.jpg"></div>
+    <div><img src="{{ site.baseurl }}/assets/images/home/pod3.jpg"></div>
+    <div><img src="{{ site.baseurl }}/assets/images/home/pod5.jpg"></div>
 </div>
 
+
+<p>Hi, I’m Jasmine. Welcome to my shop!</p>
+
+<p>Currently, I am a Type 1 Diabetes researcher and an artist. I love making art and sharing it with the world. Whether you have diabetes or not, there's something for everyone! I specialize in making earrings, canvas art, and jewelry you wear on your devices. Many of my works can be customized so DM me if you have an idea! I hope I’ve made your everyday a little more beautiful.</p>
+
+<a target="_blank" href="https://instagram.com/artinfusion97" class="btn btn-light">Check Out My Instagram &rarr;</a>

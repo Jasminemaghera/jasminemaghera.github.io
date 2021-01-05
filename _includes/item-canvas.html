@@ -1,0 +1,13 @@
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="{{ site.baseurl }}/assets/images/{{ include.image }}" title="{{ include.title }} | {{ include.description }}">
+            <img class="img-thumb" style="height: auto;" alt="{{ include.title }} | {{ include.description }}" src="{{ site.baseurl }}/assets/images/{{ include.image }}" />
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title"><a class="text-dark" href="{{ site.baseurl }}/assets/images/{{ include.image }}" title="{{ include.title }} | {{ include.description }}">{{ include.title }}</a></h2>
+        <h4 class="card-text">{{ include.description }}  <span style="color: gray;">(${{ include.price }})</span></h4>
+        </div>
+    </div>
+</div>
