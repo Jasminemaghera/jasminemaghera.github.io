@@ -34,9 +34,9 @@ All prices are in **CAD**.
 
     {% include item.html title="Lil' Succulent Garden with Gold Hoops" description="Marbled green succulents with gold posts, resin flood and gold hoops. Nickel free brass." image="earrings/s-hoop-dark.jpeg" price="14" %}
     
-    {% include item.html title="Lovely baby blue roses with gold hoops" description="Baby blue polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/blue-hoop.jpeg" price="14" %}
+    {% include item.html title="Lovely Baby Blue Roses with Gold Hoops" description="Baby blue polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/blue-hoop.jpeg" price="14" %}
 
-    {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/blue-hoop.jpeg" price="14" %}
+    {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/rose-hoops.jpeg" price="14" %}
     
 </div>
 
