@@ -7,7 +7,7 @@ comments: false
 #imageshadow: true
 ---
 Earrings are a great way to change up your look and feel confident! Custom orders can sometimes be done so don’t be afraid to ask. Happy Shopping! 
-All prices are in **CAD**. 
+All prices are in **CAD**, Free shipping on orders greater than $60. 
 
 <a target="_blank" href="https://instagram.com/artinfusion97" class="btn btn-dark"> To Purchase, Send a DM on Instagram &rarr;</a>
 
