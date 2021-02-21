@@ -39,8 +39,15 @@ All prices are in **CAD**, Free shipping on orders greater than $60.
     {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/rose-hoops.jpg" price="14" %}
 
     {% include item.html title="Low snacks: Quarter Oranges" description="Real Orange slices with resin coating and gold pegs. 
-    These organges will never go bad! Nickel free brass." image="earrings/Quarter oranges.jpg" price="15" %}
-    
+    These oranges will never go bad! Nickel free brass." image="earrings/Quarter oranges.jpeg" price="15" %}
+
+    {% include item.html title="Low snacks: Half Oranges" description="Real Orange slices with resin coating and gold pegs. 
+    These oranges will never go bad! Nickel free brass." image="earrings/Half orange.jpeg" price="20" %}
+
+    {% include item.html title="Low snacks: Full Oranges" description="Real Orange slices with resin coating and gold pegs. 
+    These oranges will never go bad! Nickel free brass." image="earrings/Full oranges.jpeg" price="30" %}
+
+    {% include item.html title="Botanical Triangle Studs" description="Triangle shape with real plants embeded in resin with gold flakes and gold pegs. Dainty and cute.  Nickel free brass." image="earrings/Traangles.jpeg" price="10" %}
 </div>
 
 <div style="border-color: #212529; border-style: solid; border-width:3px; padding: 15px;" >
