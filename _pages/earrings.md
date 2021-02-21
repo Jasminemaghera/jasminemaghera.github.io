@@ -47,7 +47,13 @@ All prices are in **CAD**, Free shipping on orders greater than $60.
     {% include item.html title="Low snacks: Full Oranges" description="Real Orange slices with resin coating and gold pegs. 
     These oranges will never go bad! Nickel free brass." image="earrings/Full oranges.jpeg" price="30" %}
 
-    {% include item.html title="Botanical Triangle Studs" description="Triangle shape with real plants embeded in resin with gold flakes and gold pegs. Dainty and cute.  Nickel free brass." image="earrings/Traangles.jpeg" price="10" %}
+    {% include item.html title="Botanical Triangle Studs" description="Triangle shape with real plants embeded in resin with gold flakes and gold pegs. Dainty and cute.  Nickel free brass." image="earrings/Traangles.jpeg" price="10"
+    
+    {% include item.html title="Botanical Cube Studs" description="Cube shape with real plants embeded in resin with gold flakes and gold pegs. Dainty and cute and a perfect little way to keep nature close to you.  Nickel free brass." image="earrings/Cubes.jpeg" price="10" %}
+
+    {% include item.html title="The Wave" description="The Great Wave Off Kanagawa but in earring form. 100% recycled #6 plastic too! Nickel free brass." image="earrings/Wave.jpeg" price="20" %}
+
+    {% include item.html title="Insulin" description="Dangly insulin vials for your ears. Made from 100% recycled #6 plastic." image="earrings/Wave.jpeg" price="20" %}
 </div>
 
 <div style="border-color: #212529; border-style: solid; border-width:3px; padding: 15px;" >
