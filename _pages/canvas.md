@@ -5,7 +5,7 @@ permalink: /canvas
 comments: false
 ---
 
-Original canvas art hand paited by me! Canvases are the best way to express feelings and emotions. Custom orders can sometimes be done so don’t be afraid to ask. Happy Shopping! All prices are in **CAD**.
+Original canvas art hand paited by me! Canvases are the best way to express feelings and emotions. Custom orders can sometimes be done so don’t be afraid to ask. Happy Shopping! All prices are in **CAD**. Free Shipping on paintings greater than $75.
 
 <a target="_blank" href="https://instagram.com/artinfusion97" class="btn btn-dark"> To Purchase, Send a DM on Instagram &rarr;</a>
 
