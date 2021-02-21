@@ -37,6 +37,9 @@ All prices are in **CAD**, Free shipping on orders greater than $60.
     {% include item.html title="Lovely Baby Blue Roses with Gold Hoops" description="Baby blue polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/blue-hoop.jpeg" price="14" %}
 
     {% include item.html title="Lovely Pink Roses with Gold Hoops" description="Marble pink polymer roses with gold posts, resin coating and gold hoops. Nickel free brass." image="earrings/rose-hoops.jpg" price="14" %}
+
+    {% include item.html title="Low snacks: Quarter Oranges" description="Real Orange slices with resin coating and gold pegs. 
+    These organges will never go bad! Nickel free brass." image="earrings/Quarter oranges.jpg" price="15" %}
     
 </div>
 
