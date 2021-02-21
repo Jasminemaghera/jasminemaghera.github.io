@@ -54,6 +54,8 @@ All prices are in **CAD**, Free shipping on orders greater than $60.
     {% include item.html title="The Wave" description="The Great Wave Off Kanagawa but in earring form. 100% recycled #6 plastic too! Nickel free brass." image="earrings/Wave.jpeg" price="20" %}
 
     {% include item.html title="Insulin" description="Dangly insulin vials for your ears. Made from 100% recycled #6 plastic." image="earrings/Wave.jpeg" price="20" %}
+
+    {% include item.html title="Insulin" description="Dangly insulin vials for your ears. Made from 100% recycled #6 plastic." image="earrings/Wave.jpeg" price="20" %}
     
 </div>
 
